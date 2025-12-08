@@ -94,6 +94,28 @@ form label {
   gap: 20px;
 }
 
+/* Style for the Features Table */
+.specs-table {
+  border-color: white;
+  margin-top: 20px;
+}
+
+.specs-table th {
+  background-color: #00b894; /* Matches your submit button color */
+  color: white;
+  padding: 15px;
+}
+
+.specs-table td {
+  background-color: rgba(255, 255, 255, 0.1); /* Transparent white */
+  color: white;
+}
+
+
+.product img {
+  border-radius: 15px;
+  box-shadow: 0 0 15px rgba(0,0,0,0.5);
+}
 
   
   
